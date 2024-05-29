@@ -1,3 +1,129 @@
 {
-    "abc": "1235"
+    "urls": {
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2K4cwj_yTWk-rSebFdFF-tX1yMKE8o_Uwnk5H9GYkIoqSKHAvt-pYaB1dEQHK1paNNk&usqp=CAU",
+        "speakIcon": "https://www.svgrepo.com/show/165176/speaking.svg",
+        "pauseIcon": "https://www.svgrepo.com/show/149256/pause-button.svg",
+        "arrowIcon": "https://cdn.icon-icons.com/icons2/2248/PNG/512/arrow_top_right_icon_135926.png",
+        "mp3Link": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    "english": {
+        "questionsAndAnswers": [
+            {
+                "question": "Question 1?",
+                "answer": [
+                    "The Circle website, like many websites, uses cookies and other tracking technologies, such as pixels.",
+                    "These cookies may store or retrieve information on your browser or device.",
+                    "Our site uses cookies for purposes such as providing content or features on our site, helping us remember you and your preferences."
+                ]
+            },
+            {
+                "question": "Question 2?",
+                "answer": [
+                    "Improving your user experience, analyzing site activity, and marketing and advertising purposes.",
+                    "You can choose not to allow some types of cookies.",
+                    "Click on the different category headings to find out more and change the default settings.",
+                    "Please be aware that blocking some types of cookies may impact your experience of the site and the services we are able to offer."
+                ]
+            },
+            {
+                "question": "Question 3?",
+                "answer": [
+                    "Improving your user experience, analyzing site activity, and marketing and advertising purposes.",
+                    "You can choose not to allow some types of cookies.",
+                    "Click on the different category headings to find out more and change the default settings.",
+                    "Please be aware that blocking some types of cookies may impact your experience of the site and the services we are able to offer."
+                ]
+            }
+        ]
+    },
+    "hindi": {
+        "questionsAndAnswers": [
+            {
+                "question": "प्रश्न 1?",
+                "answer": [
+                    "सर्कल वेबसाइट, कई वेबसाइटों की तरह, कुकीज़ और अन्य ट्रैकिंग तकनीकों का उपयोग करती है, जैसे कि पिक्सेल।",
+                    "ये कुकीज़ आपके ब्राउज़र या डिवाइस पर जानकारी स्टोर या पुनः प्राप्त कर सकती हैं।",
+                    "हमारी साइट सामग्री या सुविधाएँ प्रदान करने, आपको और आपकी प्राथमिकताओं को याद रखने जैसे उद्देश्यों के लिए कुकीज़ का उपयोग करती है।"
+                ]
+            },
+            {
+                "question": "प्रश्न 2?",
+                "answer": [
+                    "आपके उपयोगकर्ता अनुभव को बेहतर बनाना, साइट गतिविधि का विश्लेषण करना, और विपणन और विज्ञापन उद्देश्यों के लिए।",
+                    "आप कुछ प्रकार की कुकीज़ की अनुमति नहीं देने का विकल्प चुन सकते हैं।",
+                    "अधिक जानने और डिफ़ॉल्ट सेटिंग्स बदलने के लिए विभिन्न श्रेणी के शीर्षकों पर क्लिक करें।",
+                    "कृपया ध्यान दें कि कुछ प्रकार की कुकीज़ को ब्लॉक करने से साइट के आपके अनुभव और हम जिन सेवाओं की पेशकश कर सकते हैं, उन पर प्रभाव पड़ सकता है।"
+                ]
+            },
+            {
+                "question": "प्रश्न 3?",
+                "answer": [
+                    "आपके उपयोगकर्ता अनुभव को बेहतर बनाना, साइट गतिविधि का विश्लेषण करना, और विपणन और विज्ञापन उद्देश्यों के लिए।",
+                    "आप कुछ प्रकार की कुकीज़ की अनुमति नहीं देने का विकल्प चुन सकते हैं।",
+                    "अधिक जानने और डिफ़ॉल्ट सेटिंग्स बदलने के लिए विभिन्न श्रेणी के शीर्षकों पर क्लिक करें।",
+                    "कृपया ध्यान दें कि कुछ प्रकार की कुकीज़ को ब्लॉक करने से साइट के आपके अनुभव और हम जिन सेवाओं की पेशकश कर सकते हैं, उन पर प्रभाव पड़ सकता है।"
+                ]
+            }
+        ]
+    },
+    "italian": {
+        "questionsAndAnswers": [
+            {
+                "question": "Domanda 1?",
+                "answer": [
+                    "Il sito Circle, come molti siti web, utilizza cookie e altre tecnologie di tracciamento, come i pixel.",
+                    "Questi cookie possono memorizzare o recuperare informazioni sul tuo browser o dispositivo.",
+                    "Il nostro sito utilizza i cookie per scopi come fornire contenuti o funzionalità sul nostro sito, aiutandoci a ricordarti e le tue preferenze."
+                ]
+            },
+            {
+                "question": "Domanda 2?",
+                "answer": [
+                    "Migliorare la tua esperienza utente, analizzare l'attività del sito e scopi di marketing e pubblicità.",
+                    "Puoi scegliere di non consentire alcuni tipi di cookie.",
+                    "Clicca sulle diverse intestazioni delle categorie per saperne di più e cambiare le impostazioni predefinite.",
+                    "Si prega di essere consapevole che il blocco di alcuni tipi di cookie può influire sulla tua esperienza del sito e sui servizi che siamo in grado di offrire."
+                ]
+            },
+            {
+                "question": "Domanda 3?",
+                "answer": [
+                    "Migliorare la tua esperienza utente, analizzare l'attività del sito e scopi di marketing e pubblicità.",
+                    "Puoi scegliere di non consentire alcuni tipi di cookie.",
+                    "Clicca sulle diverse intestazioni delle categorie per saperne di più e cambiare le impostazioni predefinite.",
+                    "Si prega di essere consapevole che il blocco di alcuni tipi di cookie può influire sulla tua esperienza del sito e sui servizi che siamo in grado di offrire."
+                ]
+            }
+        ]
+    },
+    "french": {
+        "questionsAndAnswers": [
+            {
+                "question": "Question 1?",
+                "answer": [
+                    "Le site Circle, comme de nombreux sites Web, utilise des cookies et d'autres technologies de suivi, telles que les pixels.",
+                    "Ces cookies peuvent stocker ou récupérer des informations sur votre navigateur ou appareil.",
+                    "Notre site utilise des cookies à des fins telles que fournir du contenu ou des fonctionnalités sur notre site, nous aider à nous souvenir de vous et de vos préférences."
+                ]
+            },
+            {
+                "question": "Question 2?",
+                "answer": [
+                    "Améliorer votre expérience utilisateur, analyser l'activité du site et à des fins de marketing et de publicité.",
+                    "Vous pouvez choisir de ne pas autoriser certains types de cookies.",
+                    "Cliquez sur les différents en-têtes de catégorie pour en savoir plus et modifier les paramètres par défaut.",
+                    "Veuillez noter que le blocage de certains types de cookies peut affecter votre expérience du site et les services que nous sommes en mesure d'offrir."
+                ]
+            },
+            {
+                "question": "Question 3?",
+                "answer": [
+                    "Améliorer votre expérience utilisateur, analyser l'activité du site et à des fins de marketing et de publicité.",
+                    "Vous pouvez choisir de ne pas autoriser certains types de cookies.",
+                    "Cliquez sur les différents en-têtes de catégorie pour en savoir plus et modifier les paramètres par défaut.",
+                    "Veuillez noter que le blocage de certains types de cookies peut affecter votre expérience du site et les services que nous sommes en mesure d'offrir."
+                ]
+            }
+        ]
+    }
 }
