@@ -46,7 +46,8 @@
         },
         "button": {
             "primary": "Accept",
-            "secondary": "Cancel"
+            "secondary": "Cancel",
+            "select_all": "Select All"
         }
     },
     "hindi": {
@@ -87,7 +88,8 @@
         },
         "button": {
             "primary": "स्वीकार करें",
-            "secondary": "रद्द करें"
+            "secondary": "रद्द करें",
+            "select_all": "सभी चुनें"
         }
     },
     "italian": {
@@ -128,7 +130,8 @@
         },
         "button": {
             "primary": "Accetta",
-            "secondary": "Annulla"
+            "secondary": "Annulla",
+            "select_all": "Seleziona tutto"
         }
     },
     "french": {
@@ -169,7 +172,8 @@
         },
         "button": {
             "primary": "Accepter",
-            "secondary": "Annuler"
+            "secondary": "Annuler",
+            "select_all": "Tout sélectionner"
         }
     }
 }
