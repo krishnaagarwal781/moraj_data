@@ -8,6 +8,11 @@
         "dpar_link": "https://www.instagram.com",
         "manage_consent_link": "https://www.facebook.com"
     },
+    "colors":{
+        "button":"#8656EF",
+        "back_ground":"#F3F3F3",
+        "check_mark":"#0275FF"
+    },
     "english": {
         "questionsAndAnswers": [
             {
