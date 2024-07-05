@@ -87,9 +87,9 @@
         "meta_data": {
             "header": "सहमति सूचना",
             "mp3Link": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-            "title": "कुकीज़ वरीयताएँ केंद्र",
+            "title": "डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम, 2923",
             "description": "Lorem Ipsum केवल मुद्रण और टाइपसेटिंग उद्योग का डमी टेक्स्ट है। Lorem Ipsum 1500 के दशक से उद्योग का मानक डमी टेक्स्ट रहा है, जब एक अज्ञात प्रिंटर ने टाइप की एक गैली ली और इसे एक प्रकार की नमूना पुस्तक बनाने के लिए स्क्रैम्बल किया। यह न केवल पांच शताब्दियों से बचा है, बल्कि इलेक्ट्रॉनिक टाइपसेटिंग में छलांग भी लगी है, जो मूल रूप से अपरिवर्तित है। 1960 के दशक में यह Letraset शीट्स की रिलीज के साथ लोकप्रिय हुआ जिसमें Lorem Ipsum मार्ग शामिल थे, और अधिक हाल ही में डेस्कटॉप प्रकाशन सॉफ़्टवेयर जैसे Aldus PageMaker में Lorem Ipsum के संस्करण शामिल थे",
-            "manage_consent_title": "सहमति वरीयताएँ प्रबंधित करें"
+            "manage_consent_title": "व्यक्तिगत डेटा संग्रहण"
         },
         "button": {
             "primary": "स्वीकार करें",
@@ -129,9 +129,9 @@
         "meta_data": {
             "header": "Avviso di consenso",
             "mp3Link": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-            "title": "Centro preferenze sui cookie",
+            "title": "Legge sulla protezione dei dati personali digitali, 2923",
             "description": "Lorem Ipsum è semplicemente un testo fittizio dell'industria della stampa e della composizione tipografica. Lorem Ipsum è il testo fittizio standard del settore sin dal 1500, quando un tipografo sconosciuto prese una raccolta di caratteri e li mescolò per creare un campione di libro. È sopravvissuto non solo cinque secoli, ma anche il passaggio alla composizione elettronica, rimanendo sostanzialmente invariato. È stato reso popolare negli anni '60 con l'uscita dei fogli Letraset contenenti passaggi di Lorem Ipsum e, più recentemente, con software di desktop publishing come Aldus PageMaker, che includeva versioni di Lorem Ipsum",
-            "manage_consent_title": "Gestisci le preferenze del consenso"
+            "manage_consent_title": "Raccolta dei dati personali"
         },
         "button": {
             "primary": "Accetta",
@@ -171,9 +171,9 @@
         "meta_data": {
             "header": "Avis de consentement",
             "mp3Link": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-            "title": "Centre de préférences pour les cookies",
+            "title": "Loi sur la protection des données personnelles numériques, 2923",
             "description": "Lorem Ipsum est tout simplement un texte factice de l'industrie de l'impression et de la composition. Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et les a mélangés pour en faire un spécimen de livre. Il a survécu non seulement à cinq siècles, mais aussi au passage à la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker incluant des versions de Lorem Ipsum",
-            "manage_consent_title": "Gérer les préférences de consentement"
+            "manage_consent_title": "Collecte de données personnelles"
         },
         "button": {
             "primary": "Accepter",
